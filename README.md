@@ -23,6 +23,6 @@ Power BI fetches this data and updates the Real-Time Dashboard continuously, pro
 ## Preview of the Real-Time Dashboard
 
 <p align="center">
-  <img src="https://github.com/saadelmoutaouakil/Real-Time-Sales-Analytics/blob/main/Real-Time%20Dashboard%20Preview.gif" />
+  <img src="https://github.com/saadelmoutaouakil/Real-Time-Sales-Analytics/blob/main/Real-Time%20Dashboard%20Preview%20Looped.gif" />
 </p>
 
